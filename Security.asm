@@ -1,4 +1,4 @@
-include emu8086.inc.         ; Include emu8086 library for assembly code
+include emu8086.inc          ; Include emu8086 library for assembly code
 .MODEL SMALL                 ; Define the memory model as SMALL
 .DATA   
         SIZE EQU 10          ; Define a constant SIZE with the value 10
