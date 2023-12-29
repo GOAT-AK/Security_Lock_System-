@@ -50,3 +50,10 @@ When The User Enters a Wrong ID
 
 When The User Enters a Wrong Password
 
+![Wrong Pass](https://github.com/GOAT-AK/Security_Lock_System-/assets/103078881/0070230b-d46d-4f54-96ad-85c408ac9e3b)
+
+<hr>
+
+When The User Enters a Too Long Password
+
+
