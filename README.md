@@ -43,3 +43,10 @@ When The user Enters a Correct ID & Password
 <hr>
 
 When The User Enters a Wrong ID
+
+![ERROR ID NOT FOUND](https://github.com/GOAT-AK/Security_Lock_System-/assets/103078881/0c1608cf-c6ea-418c-be85-b39ba444bb1d)
+
+<hr>
+
+When The User Enters a Wrong Password
+
