@@ -16,7 +16,7 @@ Security Lock System Written in 8086 Assembly Language.
 
 * [Amr Mohamed](https://github.com/AmrMohamed16)
 
-* [Amr Khaled]()
+* [Amr Khaled](https://github.com/GOAT-AK)
 
 
 
