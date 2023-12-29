@@ -1,4 +1,3 @@
-
 include emu8086.inc.         ; Include emu8086 library for assembly code
 .MODEL SMALL                 ; Define the memory model as SMALL
 .DATA   
